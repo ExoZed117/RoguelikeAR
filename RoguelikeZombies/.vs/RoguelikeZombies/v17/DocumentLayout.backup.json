@@ -1,34 +1,31 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ebvan\\OneDrive\\Documentos\\GitHub\\RoguelikeAR\\RoguelikeZombies\\",
+  "WorkspaceRootPath": "C:\\Users\\f17us\\Downloads\\RoguelikeAR\\RoguelikeZombies\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{09ECD451-FACA-C8A1-1DB7-CF7D4FE45EE2}|Assembly-CSharp.csproj|c:\\users\\ebvan\\onedrive\\documentos\\github\\roguelikear\\roguelikezombies\\assets\\scripts\\core\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09ECD451-FACA-C8A1-1DB7-CF7D4FE45EE2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\core\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{09ECD451-FACA-C8A1-1DB7-CF7D4FE45EE2}|Assembly-CSharp.csproj|c:\\users\\f17us\\downloads\\roguelikear\\roguelikezombies\\assets\\01_scripts\\plano\\environmentgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09ECD451-FACA-C8A1-1DB7-CF7D4FE45EE2}|Assembly-CSharp.csproj|solutionrelative:assets\\01_scripts\\plano\\environmentgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09ECD451-FACA-C8A1-1DB7-CF7D4FE45EE2}|Assembly-CSharp.csproj|C:\\Users\\ebvan\\OneDrive\\Documentos\\GitHub\\RoguelikeAR\\RoguelikeZombies\\assets\\scripts\\core\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09ECD451-FACA-C8A1-1DB7-CF7D4FE45EE2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\core\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ebvan\\OneDrive\\Documentos\\GitHub\\RoguelikeAR\\RoguelikeZombies\\Assets\\Scripts\\Core\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09ECD451-FACA-C8A1-1DB7-CF7D4FE45EE2}|Assembly-CSharp.csproj|c:\\users\\ebvan\\onedrive\\documentos\\github\\roguelikear\\roguelikezombies\\assets\\scripts\\ui\\hudpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09ECD451-FACA-C8A1-1DB7-CF7D4FE45EE2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\hudpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ebvan\\OneDrive\\Documentos\\GitHub\\RoguelikeAR\\RoguelikeZombies\\Assets\\Prefabs\\Player\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09ECD451-FACA-C8A1-1DB7-CF7D4FE45EE2}|Assembly-CSharp.csproj|c:\\users\\ebvan\\onedrive\\documentos\\github\\roguelikear\\roguelikezombies\\assets\\scripts\\enemy\\enemyaichase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09ECD451-FACA-C8A1-1DB7-CF7D4FE45EE2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemyaichase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ebvan\\OneDrive\\Documentos\\GitHub\\RoguelikeAR\\RoguelikeZombies\\Assets\\Scripts\\UI\\HudPresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09ECD451-FACA-C8A1-1DB7-CF7D4FE45EE2}|Assembly-CSharp.csproj|C:\\Users\\ebvan\\OneDrive\\Documentos\\GitHub\\RoguelikeAR\\RoguelikeZombies\\assets\\scripts\\interfaces\\contracts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09ECD451-FACA-C8A1-1DB7-CF7D4FE45EE2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interfaces\\contracts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ebvan\\OneDrive\\Documentos\\GitHub\\RoguelikeAR\\RoguelikeZombies\\Assets\\Scripts\\Enemy\\EnemyAIChase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09ECD451-FACA-C8A1-1DB7-CF7D4FE45EE2}|Assembly-CSharp.csproj|c:\\users\\ebvan\\onedrive\\documentos\\github\\roguelikear\\roguelikezombies\\assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09ECD451-FACA-C8A1-1DB7-CF7D4FE45EE2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ebvan\\OneDrive\\Documentos\\GitHub\\RoguelikeAR\\RoguelikeZombies\\Assets\\Scripts\\Player\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ebvan\\OneDrive\\Documentos\\GitHub\\RoguelikeAR\\RoguelikeZombies\\Assets\\Prefabs\\Player\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Prefabs\\Player\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ebvan\\OneDrive\\Documentos\\GitHub\\RoguelikeAR\\RoguelikeZombies\\Assets\\Scripts\\Core\\Health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ebvan\\OneDrive\\Documentos\\GitHub\\RoguelikeAR\\RoguelikeZombies\\Assets\\Scripts\\Interfaces\\Contracts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,91 +40,97 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "GameManager.cs",
-              "DocumentMoniker": "C:\\Users\\ebvan\\OneDrive\\Documentos\\GitHub\\RoguelikeAR\\RoguelikeZombies\\Assets\\Scripts\\Core\\GameManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Core\\GameManager.cs",
-              "ToolTip": "C:\\Users\\ebvan\\OneDrive\\Documentos\\GitHub\\RoguelikeAR\\RoguelikeZombies\\Assets\\Scripts\\Core\\GameManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Core\\GameManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Title": "EnvironmentGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\f17us\\Downloads\\RoguelikeAR\\RoguelikeZombies\\Assets\\01_Scripts\\Plano\\EnvironmentGenerator.cs",
+              "RelativeDocumentMoniker": "Assets\\01_Scripts\\Plano\\EnvironmentGenerator.cs",
+              "ToolTip": "C:\\Users\\f17us\\Downloads\\RoguelikeAR\\RoguelikeZombies\\Assets\\01_Scripts\\Plano\\EnvironmentGenerator.cs",
+              "RelativeToolTip": "Assets\\01_Scripts\\Plano\\EnvironmentGenerator.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAEwGYAAABpAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T01:48:14.448Z",
+              "WhenOpened": "2025-09-09T04:42:14.903Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HudPresenter.cs",
-              "DocumentMoniker": "C:\\Users\\ebvan\\OneDrive\\Documentos\\GitHub\\RoguelikeAR\\RoguelikeZombies\\Assets\\Scripts\\UI\\HudPresenter.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\HudPresenter.cs",
-              "ToolTip": "C:\\Users\\ebvan\\OneDrive\\Documentos\\GitHub\\RoguelikeAR\\RoguelikeZombies\\Assets\\Scripts\\UI\\HudPresenter.cs",
-              "RelativeToolTip": "Assets\\Scripts\\UI\\HudPresenter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\ebvan\\OneDrive\\Documentos\\GitHub\\RoguelikeAR\\RoguelikeZombies\\Assets\\Scripts\\Core\\GameManager.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\ebvan\\OneDrive\\Documentos\\GitHub\\RoguelikeAR\\RoguelikeZombies\\Assets\\Scripts\\Core\\GameManager.cs",
+              "ToolTip": "C:\\Users\\ebvan\\OneDrive\\Documentos\\GitHub\\RoguelikeAR\\RoguelikeZombies\\Assets\\Scripts\\Core\\GameManager.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\ebvan\\OneDrive\\Documentos\\GitHub\\RoguelikeAR\\RoguelikeZombies\\Assets\\Scripts\\Core\\GameManager.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T01:48:00.78Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-09T01:48:14.448Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "HudPresenter.cs",
+              "DocumentMoniker": "C:\\Users\\ebvan\\OneDrive\\Documentos\\GitHub\\RoguelikeAR\\RoguelikeZombies\\Assets\\Scripts\\UI\\HudPresenter.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\ebvan\\OneDrive\\Documentos\\GitHub\\RoguelikeAR\\RoguelikeZombies\\Assets\\Scripts\\UI\\HudPresenter.cs",
+              "ToolTip": "C:\\Users\\ebvan\\OneDrive\\Documentos\\GitHub\\RoguelikeAR\\RoguelikeZombies\\Assets\\Scripts\\UI\\HudPresenter.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\ebvan\\OneDrive\\Documentos\\GitHub\\RoguelikeAR\\RoguelikeZombies\\Assets\\Scripts\\UI\\HudPresenter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T01:48:00.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "EnemyAIChase.cs",
               "DocumentMoniker": "C:\\Users\\ebvan\\OneDrive\\Documentos\\GitHub\\RoguelikeAR\\RoguelikeZombies\\Assets\\Scripts\\Enemy\\EnemyAIChase.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\EnemyAIChase.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\ebvan\\OneDrive\\Documentos\\GitHub\\RoguelikeAR\\RoguelikeZombies\\Assets\\Scripts\\Enemy\\EnemyAIChase.cs",
               "ToolTip": "C:\\Users\\ebvan\\OneDrive\\Documentos\\GitHub\\RoguelikeAR\\RoguelikeZombies\\Assets\\Scripts\\Enemy\\EnemyAIChase.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Enemy\\EnemyAIChase.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\ebvan\\OneDrive\\Documentos\\GitHub\\RoguelikeAR\\RoguelikeZombies\\Assets\\Scripts\\Enemy\\EnemyAIChase.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAQwBQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T01:47:48.747Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-09T01:47:48.747Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "PlayerMovement.cs",
               "DocumentMoniker": "C:\\Users\\ebvan\\OneDrive\\Documentos\\GitHub\\RoguelikeAR\\RoguelikeZombies\\Assets\\Scripts\\Player\\PlayerMovement.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\ebvan\\OneDrive\\Documentos\\GitHub\\RoguelikeAR\\RoguelikeZombies\\Assets\\Scripts\\Player\\PlayerMovement.cs",
               "ToolTip": "C:\\Users\\ebvan\\OneDrive\\Documentos\\GitHub\\RoguelikeAR\\RoguelikeZombies\\Assets\\Scripts\\Player\\PlayerMovement.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\ebvan\\OneDrive\\Documentos\\GitHub\\RoguelikeAR\\RoguelikeZombies\\Assets\\Scripts\\Player\\PlayerMovement.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T01:47:02.424Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-09T01:47:02.424Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "PlayerMovement.cs",
               "DocumentMoniker": "C:\\Users\\ebvan\\OneDrive\\Documentos\\GitHub\\RoguelikeAR\\RoguelikeZombies\\Assets\\Prefabs\\Player\\PlayerMovement.cs",
-              "RelativeDocumentMoniker": "Assets\\Prefabs\\Player\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\ebvan\\OneDrive\\Documentos\\GitHub\\RoguelikeAR\\RoguelikeZombies\\Assets\\Prefabs\\Player\\PlayerMovement.cs",
               "ToolTip": "C:\\Users\\ebvan\\OneDrive\\Documentos\\GitHub\\RoguelikeAR\\RoguelikeZombies\\Assets\\Prefabs\\Player\\PlayerMovement.cs",
-              "RelativeToolTip": "Assets\\Prefabs\\Player\\PlayerMovement.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\ebvan\\OneDrive\\Documentos\\GitHub\\RoguelikeAR\\RoguelikeZombies\\Assets\\Prefabs\\Player\\PlayerMovement.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-09T01:46:05.606Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Health.cs",
               "DocumentMoniker": "C:\\Users\\ebvan\\OneDrive\\Documentos\\GitHub\\RoguelikeAR\\RoguelikeZombies\\Assets\\Scripts\\Core\\Health.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Core\\Health.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\ebvan\\OneDrive\\Documentos\\GitHub\\RoguelikeAR\\RoguelikeZombies\\Assets\\Scripts\\Core\\Health.cs",
               "ToolTip": "C:\\Users\\ebvan\\OneDrive\\Documentos\\GitHub\\RoguelikeAR\\RoguelikeZombies\\Assets\\Scripts\\Core\\Health.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Core\\Health.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\ebvan\\OneDrive\\Documentos\\GitHub\\RoguelikeAR\\RoguelikeZombies\\Assets\\Scripts\\Core\\Health.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T01:45:41.848Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-09T01:45:41.848Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Contracts.cs",
               "DocumentMoniker": "C:\\Users\\ebvan\\OneDrive\\Documentos\\GitHub\\RoguelikeAR\\RoguelikeZombies\\Assets\\Scripts\\Interfaces\\Contracts.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Interfaces\\Contracts.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\ebvan\\OneDrive\\Documentos\\GitHub\\RoguelikeAR\\RoguelikeZombies\\Assets\\Scripts\\Interfaces\\Contracts.cs",
               "ToolTip": "C:\\Users\\ebvan\\OneDrive\\Documentos\\GitHub\\RoguelikeAR\\RoguelikeZombies\\Assets\\Scripts\\Interfaces\\Contracts.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Interfaces\\Contracts.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\ebvan\\OneDrive\\Documentos\\GitHub\\RoguelikeAR\\RoguelikeZombies\\Assets\\Scripts\\Interfaces\\Contracts.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T01:45:04.383Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-09T01:45:04.383Z"
             }
           ]
         }

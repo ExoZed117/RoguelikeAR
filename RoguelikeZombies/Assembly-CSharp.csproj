@@ -62,6 +62,8 @@
     <Compile Include="Assets\01_Scripts\UI\HudPresenter.cs" />
     <Compile Include="Assets\01_Scripts\Core\Health.cs" />
     <Compile Include="Assets\01_Scripts\Interfaces\Contracts.cs" />
+    <Compile Include="Assets\01_Scripts\Plano\DrawAreaGizmo.cs" />
+    <Compile Include="Assets\01_Scripts\Plano\EnvironmentGenerator.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
